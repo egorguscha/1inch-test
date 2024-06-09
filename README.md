@@ -5,6 +5,10 @@ pnpm install
 pnpm dev
 ```
 
+## App
+
+https://1inch-test-kprzpe890-egor-guschas-projects.vercel.app
+
 ## Test Task for Lead Frontend Engineer with DeFi Experience
 
 ### Objective
