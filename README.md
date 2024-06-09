@@ -7,7 +7,7 @@ pnpm dev
 
 ## App
 
-https://1inch-test-kprzpe890-egor-guschas-projects.vercel.app
+https://1inch-test-murgut-egor-guschas-projects.vercel.app
 
 ## Test Task for Lead Frontend Engineer with DeFi Experience
 
